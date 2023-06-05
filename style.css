@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --font1: 'Raleway', sans-serif;`
+    --corfundo:color: #E8E8E8;
+    
+}
+
+header {
+     font-family: var(--font1); 
+     background-color: #e8e8e8;
+}
